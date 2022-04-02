@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/'
+let g:netrw_dirhist_2='/data00/home/zhujia.zj/image_service/nydus/image-service/rafs/src/metadata/layout'
+let g:netrw_dirhist_3='/data00/home/zhujia.zj/work_station/libfuse/example'
+let g:netrw_dirhist_4='/data00/home/zhujia.zj/tools/zj_kprobe'
+let g:netrw_dirhist_5='/data00/home/zhujia.zj/.vim/colors'
