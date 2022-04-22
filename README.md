@@ -1,2 +1,3 @@
 # dotfile
-git submodule update --init --recursive
+git submodule update --init --recursive  
+sudo apt-get install ripgrep
