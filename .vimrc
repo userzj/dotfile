@@ -39,7 +39,7 @@ set cindent
 set smartindent
 set tabstop=4
 set shiftwidth=4
-set expandtab
+set noexpandtab
 set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
